@@ -1,4 +1,5 @@
-# Data Analytics Project – blinkit sales analysis Dashboard
+# blinkit_sales_analysis Dashboard
+# Data Analytics Project
 
 # Overview
 
@@ -56,6 +57,7 @@ Explained objectives, dashboard visuals, key insights, and recommendations.
 📈 Dashboard Features
 
 The Power BI dashboard includes:
+
 📌 Total Sales KPI
 📌 Total Orders
 📌 Revenue Analysis
