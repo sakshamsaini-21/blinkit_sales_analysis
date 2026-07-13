@@ -1,5 +1,4 @@
-# blinkit_sales_analysis
-# Data Analytics Project – Blinkit Sales Dashboard
+# Data Analytics Project – blinkit sales analysis Dashboard
 
 # Overview
 
