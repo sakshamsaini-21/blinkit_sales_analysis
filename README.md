@@ -1,27 +1,29 @@
 # blinkit_sales_analysis Dashboard
 # Data Analytics Project
 
-Overview
+# Overview
 
 This project demonstrates an end-to-end data analytics workflow using Power BI. The process includes importing an Excel dataset, cleaning and transforming data using Power Query, building an interactive dashboard, generating business insights, and presenting the findings through a professional report and presentation created with Gamma.
 
 The goal of this project is to showcase practical data analytics skills, including data preparation, visualization, and business intelligence.
 
 📂 Dataset
+
 Source: Excel (.xlsx)
 Type: Business/Sales Dataset
 Format: Structured tabular data
 Records: Multiple rows containing sales-related information (e.g., products, customers, revenue, region, and dates)
 
-Note: Replace this section with your actual dataset details if required.
-
 🛠️ Tools & Technologies
+
 Microsoft Power BI Desktop
 Power Query (ETL)
 Microsoft Excel
 Gamma AI (Presentation)
 Git & GitHub
+
 📋 Project Workflow
+
 1. Data Loading
 Imported the Excel dataset into Power BI.
 Verified data types and relationships.
@@ -37,9 +39,7 @@ Organized tables.
 Created relationships (if applicable).
 Optimized the data model.
 4. Dashboard Development
-
 Designed an interactive dashboard including:
-
 KPI Cards
 Sales Trends
 Category-wise Analysis
@@ -54,10 +54,10 @@ Documented findings in a concise report.
 6. Presentation
 Created a professional presentation using Gamma AI.
 Explained objectives, dashboard visuals, key insights, and recommendations.
+
 📈 Dashboard Features
 
 The Power BI dashboard includes:
-
 📌 Total Sales KPI
 📌 Total Orders
 📌 Revenue Analysis
@@ -66,13 +66,17 @@ The Power BI dashboard includes:
 📌 Monthly Sales Trend
 📌 Interactive Slicers
 📌 Dynamic Charts and Graphs
+
 🔍 Key Results
+
 Cleaned and transformed raw Excel data into an analysis-ready dataset.
 Built an interactive Power BI dashboard for business decision-making.
 Identified sales trends and performance patterns.
 Improved data visualization for easier interpretation.
 Presented findings through a professional report and presentation.
+
 📁 Project Structure
+
 Data-Analytics-Project/
 │
 ├── Dataset/
@@ -91,7 +95,9 @@ Data-Analytics-Project/
 │   └── Dashboard_Screenshot.png
 │
 └── README.md
+
 ▶️ How to Run
+
 Clone this repository.
 git clone https://github.com/your-username/your-repository.git
 Open Power BI Desktop.
@@ -99,7 +105,9 @@ Open the .pbix file.
 If required, reconnect the Excel dataset.
 Click Refresh to load the latest data.
 Explore the dashboard using the available filters and slicers.
+
 🎯 Skills Demonstrated
+
 Data Cleaning
 Data Transformation
 Power Query (ETL)
@@ -110,16 +118,18 @@ KPI Reporting
 Data Analysis
 Presentation & Storytelling
 GitHub Documentation
+
 🚀 Future Improvements
+
 Add DAX measures for advanced analytics.
 Connect the dashboard to live databases.
 Implement drill-through pages.
 Include forecasting and trend analysis.
 Automate scheduled data refresh.
+
 👤 Author
 
 Saksham Saini
-
 🎓 Computer Science Engineering Graduate
 📊 Aspiring Data Analyst
 💼 Skilled in Power BI, Excel, SQL, Python, and Data Visualization
